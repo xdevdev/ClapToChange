@@ -29,3 +29,6 @@ If Pyaudio can't install
 pip install pipwin
 pipwin install pyaudio
 ```
+V_rms=  1/√2× V_peak                            √((∑_(i=1)^n▒x^2 )/N)=Vrms
+       v_avg=(∑_(i=1)^n▒x_i )/N                                           v_mean=∑x_i/N
+〖       v〗_med=((n+1))/2

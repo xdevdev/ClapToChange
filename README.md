@@ -7,3 +7,5 @@
 
 ### How does the clap detection/Recognition work?
 It’s work by the calculation of the amplitude of the wave. When we clapped the amplitude goes higher. Likewise, when we are quiet, the graph or wave will look plummeting.
+
+![alt text](https://www.google.com/search?q=sound+wave+matplotlib&sxsrf=ALeKk03piONRVLvwjGxvJjdjw_033Aw7Yw:1611499585880&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjbt_zi57TuAhVZxTgGHb6iAhEQ_AUoAXoECAcQAw&biw=1366&bih=657#imgrc=IWeSJidsB9uS9M)

@@ -15,3 +15,11 @@ It’s work by the calculation of the amplitude of the wave. When we clapped the
 - Time
 - Pysxtt3
 - Struct
+
+You have to install pyaudio , pyautogui and pysxtt3
+
+'''sh
+pip install pyautogui
+pip install pyaudio
+pip install pysxtt3
+'''

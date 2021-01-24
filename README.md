@@ -23,3 +23,9 @@ pip install pyautogui
 pip install pyaudio
 pip install pysxtt3
 ```
+If Pyaudio can't install 
+
+```sh
+pip install pipwin
+pipwin install pyaudio
+```
